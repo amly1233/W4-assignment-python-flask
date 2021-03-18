@@ -1,0 +1,34 @@
+*{
+    background-color:f4f9f9;
+    color:0a043c;
+    margin:0;
+    padding:0;
+    font-size: 20px;
+    text-align: center;
+    font-family: 微軟正黑體;
+}
+
+
+.title{
+    height:100px;
+    background-color:#276678;
+}
+
+.head{
+    padding:10px;
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+    
+}
+
+.body{
+    text-align: center;
+    padding: 1%;
+}
+
+.login{
+    text-align: center;
+    padding: 10px;
+    
+}
